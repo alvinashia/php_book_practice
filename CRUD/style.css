@@ -1,0 +1,11 @@
+.tab_style{
+    display: flex;
+    justify-content: center;
+    border: 1px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+td{
+    padding: 2px 5px;
+}
